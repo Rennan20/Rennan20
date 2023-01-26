@@ -8,4 +8,4 @@
 - ⚡ Sempre fui um autodidata amante de tecnologia, jogos e tenho habilidades com edição de imagens, videos e sou um tradutor En/PtBr!!!
 
 ### Redes sociais
-Linkedin - https://www.linkedin.com/in/rennan-silva-47831a186/
+[Linkedin](https://www.linkedin.com/in/rennan-silva-47831a186/)
