@@ -7,3 +7,5 @@
 - 💬 Entre em contato, acesse meu portfolio : https://rennan20.github.io/meu-portfolio/
 - ⚡ Sempre fui um autodidata amante de tecnologia, jogos e tenho habilidades com edição de imagens, videos e sou um tradutor En/PtBr!!!
 
+### Redes sociais
+Linkedin - https://www.linkedin.com/in/rennan-silva-47831a186/
