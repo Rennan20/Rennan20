@@ -3,8 +3,8 @@
 
 
 - 🔭 Atualmente estou em busca de oportunidades!
-- 🌱 Estou melhorando minhas habilidades em React e Next.
-- 💬 Entre em contato, acesse meu portfolio : https://rennan20.github.io/meu-portfolio/
+- 🌱 Front end com foco em ReactJS.
+- 💬 Entre em contato, acesse meu portfolio : https://portfolio-five-xi-38.vercel.app/
 - ⚡ Sempre fui um autodidata amante de tecnologia, jogos e tenho habilidades com edição de imagens, videos e sou um tradutor En/PtBr!!!
 
 ### Redes sociais
