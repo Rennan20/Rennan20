@@ -17,10 +17,10 @@
 ### Projetos Autorais
 
 - [Template Portfólio Programação](https://next-portfolio-template-rho.vercel.app/)
- <img src="https://i.imgur.com/hubBoDI.png" alt="Portfolio_Programação" width="250" height="300">
+ <img src="https://i.imgur.com/hubBoDI.png" alt="Portfolio_Programação" width="150" height="150">
 
 - [Template Side de Receitas](https://recipes-site-ecru.vercel.app/)
- <img src="https://i.imgur.com/KXZAel9.png" alt="Site_de_Receitas" width="250" height="300">
+ <img src="https://i.imgur.com/KXZAel9.png" alt="Site_de_Receitas" width="150" height="150">
 
 
 ### Tecnologias que eu uso
