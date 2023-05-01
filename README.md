@@ -27,11 +27,11 @@
 
 - ReactJS
 - NextJS
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-- CSS
-- JavaScript
-- Git
-- GitHub
+- ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![Rennan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennan20&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennan20&layout=compact&theme=transparent)
