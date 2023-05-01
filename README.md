@@ -33,4 +33,4 @@
 - Git
 - GitHub
 
-![Rennan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennan20&show_icons=true)
+![Rennan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennan20&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennan20)](https://github.com/anuraghazra/github-readme-stats)
