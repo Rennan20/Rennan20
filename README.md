@@ -16,8 +16,12 @@
 
 ### Projetos Autorais
 
-- [Template Portfólio Programação](https://next-portfolio-template-rho.vercel.app/))
-- [Template Side de Receitas](https://recipes-site-ecru.vercel.app/))
+- [Template Portfólio Programação](https://next-portfolio-template-rho.vercel.app/)
+- ![Portfolio_Programação](https://i.imgur.com/hubBoDI.png)
+
+- [Template Side de Receitas](https://recipes-site-ecru.vercel.app/)
+- ![Site_de_Receitas](https://i.imgur.com/KXZAel9.png)
+
 
 ### Tecnologias que eu uso
 
