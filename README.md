@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou em busca de oportunidades!
 - 🌱 Front end com foco em ReactJS e NextJS.
-- 💬 Entre em contato, acesse meu portfolio : [https://portfolio-five-xi-38.vercel.app/](https://portfolio-rennan20.vercel.app/)
+- 💬 Entre em contato, acesse meu portfolio : (https://portfolio-rennan20.vercel.app/)
 - ⚡ Sempre fui um autodidata amante de tecnologia, jogos e tenho habilidades com edição de imagens, videos e sou um tradutor En/PtBr!!!
 
 ### Redes sociais
@@ -16,8 +16,8 @@
 
 ### Projetos Autorais
 
-- [Template Portfólio Programação]([link-para-o-projeto-1](https://next-portfolio-template-rho.vercel.app/))
-- [Template Side de Receitas]([link-para-o-projeto-2](https://recipes-site-ecru.vercel.app/))
+- [Template Portfólio Programação](https://next-portfolio-template-rho.vercel.app/))
+- [Template Side de Receitas](https://recipes-site-ecru.vercel.app/))
 
 ### Tecnologias que eu uso
 
