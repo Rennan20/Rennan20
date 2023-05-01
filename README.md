@@ -32,3 +32,5 @@
 - JavaScript
 - Git
 - GitHub
+
+![Rennan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rennan20&show_icons=true)
