@@ -21,7 +21,9 @@
 
 - [Template Side de Receitas](https://recipes-site-ecru.vercel.app/)
  <img src="https://i.imgur.com/KXZAel9.png" alt="Site_de_Receitas" width="150" height="150">
-
+ 
+ - [Template Side de Academia](https://fitness-site-one.vercel.app/)
+ <img src="https://i.imgur.com/7bqasz1.png" alt="Site_de_Academia" width="150" height="150">
 
 ### Tecnologias que eu uso
 
