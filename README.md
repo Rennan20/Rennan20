@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou em busca de oportunidades!
 - 🌱 Front end com foco em ReactJS e NextJS.
-- 💬 Entre em contato, acesse meu portfolio : (https://portfolio-rennan20.vercel.app/)
+- 💬 Entre em contato, acesse meu portfolio : (https://portfolio-five-xi-38.vercel.app/)
 - ⚡ Sempre fui um autodidata amante de tecnologia, jogos e tenho habilidades com edição de imagens, videos e sou um tradutor En/PtBr!!!
 
 ### Redes sociais
